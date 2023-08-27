@@ -1,6 +1,6 @@
 "use strict";
 
-var DEFAULT_URL = "Bangalorefruits.pdf";
+var DEFAULT_URL = "The Monk who sold his ferrari.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
